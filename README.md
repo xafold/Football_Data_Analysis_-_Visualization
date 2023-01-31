@@ -10,3 +10,5 @@ Just my random side projects for Football Data Analysis and Visualization using 
 ### Premier League 22/23 season xPts Differential
 ![Alt text](Images/premier_league_xPts.png)
 
+## Acknowledgment
+Special thanks to [SonOfaCorner](https://github.com/sonofacorner) for helping me out for matplotlib visualization and providing datas.
